@@ -63,6 +63,10 @@ Import the modified NASA Airfoil Self Noise dataset.
 ##### Source: 
 The original dataset can be found in the NASA Airfoil Self Noise dataset. https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
 
+In this project We use the modified dataset below and not the original dataset mentioned above.
+
+https://github.com/abdalla92/Machine-Learning-with-Apache-Spark/edit/main/NASA_airfoil_noise_raw.csv
+
 ##### License: 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
